@@ -1,4 +1,4 @@
-![Mi Card Preview](https://www.dropbox.com/s/55g281c8yyviu3j/Screenshot%202020-02-08%2014.01.39.png)
+![Mi Card Preview](https://www.dropbox.com/s/55g281c8yyviu3j/Screenshot%202020-02-08%2014.01.39.png?dl=0git )
 
 # Startempire Mi Card
 
